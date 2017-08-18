@@ -27,8 +27,8 @@
         "display4Font": "Rubik",
         "display4Size": 1,
         "isRoundedButtons": true,
-        "isAnimatedOnScroll": true,
-        "isScrollToTopButton": true
+        "isAnimatedOnScroll": false,
+        "isScrollToTopButton": false
       },
       "additionalSetColors": []
     },
@@ -39,8 +39,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Estrella's Kitchen & Café",
+        "meta_descr": "Welcome to our Webpage!\nEnjoy your travel throug our delicious meals.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
