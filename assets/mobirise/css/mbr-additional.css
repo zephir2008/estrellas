@@ -802,12 +802,12 @@ pre {
 }
 .cid-qsEB83Et1v .navbar {
   padding: .5rem 0;
-  background: #232323;
+  background: #050505;
   transition: none;
   min-height: 77px;
 }
 .cid-qsEB83Et1v .navbar-dropdown.bg-color.transparent.opened {
-  background: #232323;
+  background: #050505;
 }
 .cid-qsEB83Et1v a {
   font-style: normal;
@@ -885,7 +885,7 @@ pre {
   padding-bottom: 0;
 }
 .cid-qsEB83Et1v .dropdown .dropdown-menu {
-  background: #232323;
+  background: #050505;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -1288,4 +1288,92 @@ pre {
     justify-content: center;
     -webkit-justify-content: center;
   }
+}
+.cid-qsEB851EfP P {
+  text-align: center;
+}
+.cid-qsEB851EfP H5 {
+  text-align: center;
+}
+.cid-qsFplkhf3v {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/decoboard2a-960x720.jpg");
+}
+.cid-qsFplkhf3v .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-qsFplkhf3v .container-table {
+  margin: 0 auto;
+}
+.cid-qsFplkhf3v .scroll {
+  overflow-x: auto;
+  padding: 0;
+}
+.cid-qsFplkhf3v .dataTables_wrapper {
+  display: block;
+}
+.cid-qsFplkhf3v .dataTables_wrapper .search {
+  margin-bottom: .5rem;
+}
+.cid-qsFplkhf3v .dataTables_wrapper .table {
+  overflow-x: auto;
+}
+.cid-qsFplkhf3v table {
+  width: 100% !important;
+  margin-top: 6px;
+  border: 1px solid #cccccc;
+  margin-bottom: 0;
+}
+.cid-qsFplkhf3v table th {
+  border-top: none;
+  transition: all .2s;
+  border-bottom: none;
+}
+.cid-qsFplkhf3v table th:hover {
+  background: #cccccc;
+  color: #000000;
+}
+.cid-qsFplkhf3v table td {
+  border-top: 1px solid #cccccc;
+}
+.cid-qsFplkhf3v table.table {
+  background: #ffffff;
+}
+.cid-qsFplkhf3v .dataTables_filter {
+  text-align: right;
+  margin-bottom: .5rem;
+}
+.cid-qsFplkhf3v .dataTables_filter label {
+  display: inline;
+  white-space: normal !important;
+}
+.cid-qsFplkhf3v .dataTables_filter input {
+  display: inline;
+  width: auto;
+  margin-left: .5rem;
+  border-radius: 100px;
+  padding-left: 1rem;
+}
+.cid-qsFplkhf3v .dataTables_info {
+  padding-bottom: 1rem;
+  padding-top: 1rem;
+  white-space: normal !important;
+}
+@media (max-width: 992px) {
+  .cid-qsFplkhf3v .dataTables_filter {
+    text-align: center;
+  }
+}
+@media (max-width: 350px) {
+  .cid-qsFplkhf3v .dataTables_filter {
+    text-align: center;
+  }
+  .cid-qsFplkhf3v .dataTables_filter input {
+    width: 100% !important;
+    margin-left: 0 !important;
+  }
+}
+.cid-qsFplkhf3v .mbr-section-title {
+  color: #efefef;
 }
