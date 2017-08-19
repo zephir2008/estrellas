@@ -1179,43 +1179,34 @@ pre {
 .cid-qsEB84rhoD H3 {
   color: #232323;
 }
-.cid-qsEB851EfP {
+.cid-qsJEZVVwnu {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #2e2e2e;
+  background-color: #232323;
 }
 @media (max-width: 767px) {
-  .cid-qsEB851EfP .content {
+  .cid-qsJEZVVwnu .content {
     text-align: center;
   }
-  .cid-qsEB851EfP .content > div:not(:last-child) {
+  .cid-qsJEZVVwnu .content > div:not(:last-child) {
     margin-bottom: 2rem;
   }
 }
-@media (max-width: 767px) {
-  .cid-qsEB851EfP .media-wrap {
-    margin-bottom: 1rem;
-  }
-}
-.cid-qsEB851EfP .media-wrap .mbr-iconfont-logo {
-  font-size: 7.5rem;
-  color: #f36;
-}
-.cid-qsEB851EfP .media-wrap img {
-  height: 6rem;
+.cid-qsJEZVVwnu .map {
+  height: 18.75rem;
 }
 @media (max-width: 767px) {
-  .cid-qsEB851EfP .footer-lower .copyright {
+  .cid-qsJEZVVwnu .footer-lower .copyright {
     margin-bottom: 1rem;
     text-align: center;
   }
 }
-.cid-qsEB851EfP .footer-lower hr {
+.cid-qsJEZVVwnu .footer-lower hr {
   margin: 1rem 0;
   border-color: #fff;
   opacity: .05;
 }
-.cid-qsEB851EfP .footer-lower .social-list {
+.cid-qsJEZVVwnu .footer-lower .social-list {
   padding-left: 0;
   margin-bottom: 0;
   list-style: none;
@@ -1224,38 +1215,58 @@ pre {
   justify-content: flex-end;
   -webkit-justify-content: flex-end;
 }
-.cid-qsEB851EfP .footer-lower .social-list .mbr-iconfont-social {
+.cid-qsJEZVVwnu .footer-lower .social-list .mbr-iconfont-social {
   font-size: 1.3rem;
   color: #fff;
 }
-.cid-qsEB851EfP .footer-lower .social-list .soc-item {
+.cid-qsJEZVVwnu .footer-lower .social-list .soc-item {
   margin: 0 .5rem;
 }
-.cid-qsEB851EfP .footer-lower .social-list a {
+.cid-qsJEZVVwnu .footer-lower .social-list a {
   margin: 0;
   opacity: .5;
   -webkit-transition: .2s linear;
   transition: .2s linear;
 }
-.cid-qsEB851EfP .footer-lower .social-list a:hover {
+.cid-qsJEZVVwnu .footer-lower .social-list a:hover {
   opacity: 1;
 }
 @media (max-width: 767px) {
-  .cid-qsEB851EfP .footer-lower .social-list {
+  .cid-qsJEZVVwnu .footer-lower .social-list {
     justify-content: center;
     -webkit-justify-content: center;
   }
 }
-.cid-qsEB851EfP P {
-  text-align: center;
+.cid-qsJEZVVwnu .google-map {
+  height: 25rem;
+  position: relative;
 }
-.cid-qsEB851EfP H5 {
+.cid-qsJEZVVwnu .google-map iframe {
+  height: 100%;
+  width: 100%;
+}
+.cid-qsJEZVVwnu .google-map [data-state-details] {
+  color: #6b6763;
+  font-family: Montserrat;
+  height: 1.5em;
+  margin-top: -0.75em;
+  padding-left: 1.25rem;
+  padding-right: 1.25rem;
+  position: absolute;
   text-align: center;
+  top: 50%;
+  width: 100%;
+}
+.cid-qsJEZVVwnu .google-map[data-state] {
+  background: #e9e5dc;
+}
+.cid-qsJEZVVwnu .google-map[data-state="loading"] [data-state-details] {
+  display: none;
 }
 .cid-qsF9Nj4UCp {
   padding-top: 0px;
   padding-bottom: 0px;
-  background-color: #465052;
+  background-color: #232323;
 }
 .cid-qsF9Nj4UCp .mbr-slider .carousel-control {
   background: #1b1b1b;
@@ -1376,4 +1387,49 @@ pre {
 }
 .cid-qsFplkhf3v .mbr-section-title {
   color: #efefef;
+}
+.cid-qsJv1E1Dkb {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/decoboard2a-960x720-800x600.jpg");
+}
+.cid-qsJv1E1Dkb .socicon-bg-facebook {
+  background: #3e5b98;
+  color: #ffffff;
+}
+.cid-qsJv1E1Dkb .socicon-bg-twitter {
+  background: #4da7de;
+  color: #ffffff;
+}
+.cid-qsJv1E1Dkb .socicon-bg-googleplus {
+  background: #dd4b39;
+  color: #ffffff;
+}
+.cid-qsJv1E1Dkb .socicon-bg-vkontakte {
+  background: #5a7fa6;
+  color: #ffffff;
+}
+.cid-qsJv1E1Dkb .socicon-bg-odnoklassniki {
+  background: #f48420;
+  color: #ffffff;
+}
+.cid-qsJv1E1Dkb .socicon-bg-pinterest {
+  background: #c92619;
+  color: #ffffff;
+}
+.cid-qsJv1E1Dkb .socicon-bg-mail {
+  background: #134785;
+  color: #ffffff;
+}
+.cid-qsJv1E1Dkb .btn-social {
+  border: none !important;
+}
+.cid-qsJv1E1Dkb [class^="socicon-"]:before,
+.cid-qsJv1E1Dkb [class*=" socicon-"]:before {
+  line-height: 44px;
+}
+@media (max-width: 767px) {
+  .cid-qsJv1E1Dkb .btn {
+    font-size: 20px !important;
+  }
 }
