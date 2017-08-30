@@ -1,5 +1,7 @@
 @import url(../../../https://fonts.googleapis.com/css?family=Cherry+Swash:400,700);
+@import url(../../../https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i);
 @import url(../../../https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i);
+@import url(../../../https://fonts.googleapis.com/css?family=Oswald:200,300,400,500,600,700);
 
 
 
@@ -23,20 +25,20 @@ body {
 }
 .display-1 {
   font-family: 'Cherry Swash', display;
-  font-size: 6rem;
+  font-size: 8rem;
 }
 .display-1 > .mbr-iconfont {
-  font-size: 9.6rem;
+  font-size: 12.8rem;
 }
 .display-2 {
-  font-family: 'Cherry Swash', display;
+  font-family: 'Roboto', sans-serif;
   font-size: 3rem;
 }
 .display-2 > .mbr-iconfont {
   font-size: 4.8rem;
 }
 .display-4 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Oswald', sans-serif;
   font-size: 1rem;
 }
 .display-4 > .mbr-iconfont {
@@ -63,9 +65,9 @@ body {
 /* 0.65 - min scale variable, may vary */
 @media (max-width: 768px) {
   .display-1 {
-    font-size: 4.8rem;
-    font-size: calc( 2.75rem + (6 - 2.75) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (2.75rem + (6 - 2.75) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 6.4rem;
+    font-size: calc( 3.45rem + (8 - 3.45) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (3.45rem + (8 - 3.45) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-2 {
     font-size: 2.4rem;
@@ -1177,7 +1179,7 @@ pre {
   color: #7f1933;
 }
 .cid-qsEB84rhoD H3 {
-  color: #232323;
+  color: #050505;
 }
 .cid-qsJEZVVwnu {
   padding-top: 60px;
@@ -1262,6 +1264,9 @@ pre {
 }
 .cid-qsJEZVVwnu .google-map[data-state="loading"] [data-state-details] {
   display: none;
+}
+.cid-qsJEZVVwnu B {
+  color: #879a9f;
 }
 .cid-qsF9Nj4UCp {
   padding-top: 0px;
