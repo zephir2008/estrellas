@@ -513,7 +513,7 @@
             }
           },
           "_name": "gallery2",
-          "_customHTML": "<section class=\"mbr-gallery mbr-slider-carousel\" group=\"Sliders & Gallery\" plugins=\"Masonry,Slider,BootstrapCarouselSwipe,Gallery,VimeoVideo\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" inline>\n        <input type=\"range\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" inline>\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#232323\">\n\n        <input type=\"gallery\" title=\"Gallery\" name=\"gallery\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div mbr-class=\"{'container': !fullWidth}\">\n        <div mbr-gallery=\"gallery\" mbr-gallery-spacing=\"2\" mbr-gallery-show-text mbr-gallery-show-filter></div>\n    </div>\n\n</section>",
+          "_customHTML": "<section class=\"mbr-gallery mbr-slider-carousel\" group=\"Sliders & Gallery\" plugins=\"Masonry,Slider,BootstrapCarouselSwipe,Gallery,VimeoVideo\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" inline>\n        <input type=\"range\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" inline>\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#232323\">\n\n        <input type=\"gallery\" title=\"Gallery\" name=\"gallery\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div mbr-class=\"{'container': !fullWidth}\">\n        <div mbr-gallery=\"gallery\" mbr-gallery-spacing=\"2\" mbr-gallery-show-filter></div>\n    </div>\n\n</section>",
           "_cid": "qtOuyCytv1",
           "_anchor": "gallery2-19",
           "_protectedParams": [
@@ -526,7 +526,7 @@
             "text_all": "All",
             "gallery": [
               {
-                "tags": "Comfort food",
+                "tags": "Pasta / Noodles",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -534,11 +534,11 @@
                 "thumb": "@PROJECT_PATH@/assets/images/f-noddles-960x718-800x598.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Noddles salad<br>",
-                "active": true
+                "caption": "Pasta/Noddles<br>",
+                "active": false
               },
               {
-                "tags": "Comfort food",
+                "tags": "Fresh greens",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -546,11 +546,11 @@
                 "thumb": "@PROJECT_PATH@/assets/images/f-salad-960x719-800x599.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Chicken salad",
+                "caption": "fresh",
                 "active": false
               },
               {
-                "tags": "Comfort food",
+                "tags": "Fresh greens",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -558,11 +558,11 @@
                 "thumb": "@PROJECT_PATH@/assets/images/f-salad2-960x719-800x599.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Fruits &amp; Nuts salad",
+                "caption": "fresh",
                 "active": false
               },
               {
-                "tags": "Comfort food",
+                "tags": "Fresh greens",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -570,11 +570,11 @@
                 "thumb": "@PROJECT_PATH@/assets/images/f-salad3-960x720-800x600.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Fruits &amp; Nuts salad",
+                "caption": "fresh",
                 "active": false
               },
               {
-                "tags": "Comfort food",
+                "tags": "Meat &amp; Fish",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -582,11 +582,11 @@
                 "thumb": "@PROJECT_PATH@/assets/images/f-pork-960x720-800x600.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Pork chop &amp; peppers",
+                "caption": "meat &amp; fish",
                 "active": false
               },
               {
-                "tags": "Comfort food",
+                "tags": "Meat &amp; Fish",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -594,11 +594,11 @@
                 "thumb": "@PROJECT_PATH@/assets/images/f-steak2-960x720-800x600.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Steack",
+                "caption": "meat &amp; fish",
                 "active": false
               },
               {
-                "tags": "Comfort food",
+                "tags": "Meat &amp; Fish",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -606,7 +606,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/f-steak-960x720-800x600-800x600.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Baby back ribs",
+                "caption": "meat &amp; fish",
                 "active": false
               },
               {
@@ -690,8 +690,32 @@
                 "thumb": "@PROJECT_PATH@/assets/images/s-room-960x720-800x600-800x600.jpg",
                 "alt": "Air Conditioned",
                 "customStyle1": "display-7",
-                "caption": "Air Conditioned",
+                "caption": "AC &amp; Wifi surround<br>",
                 "active": false
+              },
+              {
+                "tags": "the Bar",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/f-cafe-960x721.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/f-cafe-960x721-800x600.jpg",
+                "alt": "the Bar",
+                "customStyle1": "display-7",
+                "caption": "Buverages @ the bar",
+                "active": false
+              },
+              {
+                "tags": "the Bar",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/f-drinks-960x719.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/f-drinks-960x719-800x599.jpg",
+                "alt": "the Bar",
+                "customStyle1": "display-7",
+                "caption": "Buverages @ the bar",
+                "active": true
               }
             ]
           }
